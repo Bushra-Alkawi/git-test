@@ -1,4 +1,8 @@
  * {
-    color: red;
-    background-color: white;
+    background-color: yellow;
+    color: aquamarine;
+    background-color: black;
+    display: flex;
+    justify-self: auto;
+
  }
