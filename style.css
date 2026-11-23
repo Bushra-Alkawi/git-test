@@ -1,8 +1,19 @@
  * {
-    background-color: yellow;
-    color: aquamarine;
-    background-color: black;
-    display: flex;
-    justify-self: auto;
+   h1 {
+      color: red;
+      background-color: #ccc;
+   }
+
+   p {
+      color: green;
+      font-size: 35px;
+   }
+
+   div {
+      width: 400px;
+      height: 400px;
+      background-color: green;
+      color: white;
+   }
 
  }
